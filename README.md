@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Ibrahim Atef</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&center=true&vCenter=true&width=600&lines=Computer+Systems+Engineering+Student;Competitive+Programmer;AI%2FML+Enthusiast" />
+</p>
+
+<p align="center">
 Computer Systems Engineering Student • Competitive Programmer • AI/ML Enthusiast
 </p>
 
@@ -20,15 +24,7 @@ Computer Systems Engineering Student • Competitive Programmer • AI/ML Enthus
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ibrahim-atef-9679a92ba/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="https://codeforces.com/profile/hymaa013">
-<img src="https://skillicons.dev/icons?i=codeforces" height="40"/>
-</a>
-
-<a href="https://github.com/hymaa010">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" />
 </a>
 </p>
 
@@ -37,7 +33,7 @@ Computer Systems Engineering Student • Competitive Programmer • AI/ML Enthus
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,tensorflow,pytorch,git,github,linux,mongodb,qt,blender" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,tensorflow,pytorch,git,github,linux,mongodb,qt" />
 </p>
 
 ---
