@@ -2,7 +2,7 @@
 
 # Ibrahim Atef
 
-### Computer Systems Engineering Student | Competitive Programmer | AI/ML Enthusiast
+### Computer Systems Engineering Student • Competitive Programmer • AI/ML Enthusiast
 
 </div>
 
@@ -10,59 +10,80 @@
 
 ## About Me
 
-Computer Systems Engineering student at Ain Shams University with a strong interest in competitive programming, artificial intelligence, and software development.  
-I enjoy solving complex problems, building practical systems, and continuously learning new technologies.
+Computer Systems Engineering student at Ain Shams University with strong interests in competitive programming, artificial intelligence, and software engineering.
+
+I enjoy building practical applications, solving algorithmic problems, and exploring systems that combine performance, scalability, and intelligent behavior.
 
 ---
 
-## Tech Stack
-
-### Languages
+## Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js" />
-</p>
-
-### Frameworks & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,mongodb,mysql,git,github,linux,blender" />
-</p>
-
-### Currently Exploring
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js" />
 </p>
 
 ---
 
-## Interests
+## Frameworks & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,mongodb,mysql,tensorflow,pytorch,qt" />
+</p>
+
+---
+
+## Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,blender" />
+</p>
+
+---
+
+## Areas of Interest
 
 - Competitive Programming
 - Artificial Intelligence & Machine Learning
-- Backend Development
-- Parallel & Distributed Systems
-- Problem Solving
+- Problem Solving & Algorithms
+- Software Engineering
+- Data Analysis & Visualization
 
 ---
 
-## Competitive Programming
+## Experience
 
-- Codeforces Profile: [hymaa013](https://codeforces.com/profile/hymaa013)
-- Participated in programming contests and problem-solving training
-- Interested in algorithms, data structures, and optimization
+### ECPC Competitor — Egyptian Collegiate Programming Contest
+
+- Represented Ain Shams University in ECPC for two consecutive years
+- Solved advanced algorithmic problems under contest constraints
+- Worked on graph theory, dynamic programming, combinatorics, and data structures
+
+---
+
+## Featured Projects
+
+### XML Editor & Social Network Analyzer
+Desktop application with XML processing, graph analysis, and visualization features using C++ and Qt.
+
+### WUZZUF Job Market Analyzer
+Data analysis and visualization dashboard exploring job market trends using Python, pandas, and Streamlit.
+
+### Movie Recommendation Engine
+Content-based recommendation system built with Java using modular OOP architecture and testing workflows.
 
 ---
 
 ## Connect With Me
 
 <p align="left">
+  <a href="https://github.com/hymaa010" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
   <a href="https://www.linkedin.com/in/ibrahim-atef-9679a92ba/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/hymaa010" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://codeforces.com/profile/hymaa013" target="_blank">
+    <img src="https://cdn.simpleicons.org/codeforces" height="48" />
   </a>
 </p>
 
@@ -70,6 +91,6 @@ I enjoy solving complex problems, building practical systems, and continuously l
 
 <div align="center">
 
-_"Building systems, solving problems, and learning something new every day."_
+_"Always learning. Always building."_
 
 </div>
